@@ -15,8 +15,8 @@ public class Ex1 {
     }
 
     private static void unmodifiableList() {
-        List<String> solarSystem = List.of("mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune");
-        solarSystem.add("Плутон");
+//        List<String> solarSystem = List.of("mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune");
+//        solarSystem.add("Плутон");
     }
 
     private static void shuffle() {

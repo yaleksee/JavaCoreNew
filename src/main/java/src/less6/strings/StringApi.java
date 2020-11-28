@@ -119,10 +119,10 @@ public class StringApi {
         boolean b3 = "   ?  ".isEmpty();
         boolean b4 = "".isEmpty();
 
-        boolean b_1 = "abc".isBlank(); // 11 jdk
-        boolean b_2 = "     ".isBlank();
-        boolean b_3 = "  ?   ".isBlank();
-        boolean b_4 = "".isBlank();
+//        boolean b_1 = "abc".isBlank(); // 11 jdk
+//        boolean b_2 = "     ".isBlank();
+//        boolean b_3 = "  ?   ".isBlank();
+//        boolean b_4 = "".isBlank();
         System.out.println();
     }
 
