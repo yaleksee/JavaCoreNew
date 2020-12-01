@@ -48,3 +48,21 @@ S
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 T
 $src/main/java/src/less10/TwoGen.java,5\6\562196942388d1c9ff4e29b1c0a95d4738e8262e
+P
+ src/main/java/src/less8/Ex1.java,c\9\c9d9a69842219a5dde23fcfa8ea2b5c4d2153750
+W
+'src/main/java/src/less11/CarFilter.java,9\8\98e080e7c6f557d79e852242a1527d29debf4a7a
+W
+'src/main/java/src/less11/Converter.java,0\2\0258a1bd369ee9aba54586ca14b79856f84eaf20
+S
+#src/main/java/src/less11/Test2.java,c\e\ce2f511c4f2215aa1b4d2937bf2d05ab3cf16d56
+S
+#src/main/java/src/less11/Test3.java,b\2\b28cc3e8536e29e69b4f6b78389e69ea365f436a
+S
+#src/main/java/src/less11/Test4.java,e\3\e39bdc12401f2806fefcd8dfb6c33d4a57155a3d
+S
+#src/main/java/src/less11/Test5.java,1\f\1fbb51b6b13030ea17de9ef7701fd329abb0945c
+^
+.src/main/java/src/less6/strings/StringApi.java,e\e\ee4eb17cb9c4a049740131cef5c033ed6cd5d748
+S
+#src/main/java/src/less11/Test6.java,b\f\bf8deac73be8c0ea2a468ebc2bc91624a10f217a
